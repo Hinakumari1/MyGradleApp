@@ -4,21 +4,6 @@ A simple Java application built using Gradle, tested with JUnit 5, packaged into
 
 ---
 
-## 📁 Project Structure
-
-MyGradleApp/
-├── app/
-│ ├── build.gradle
-│ └── src/
-│ ├── main/java/com/example/MyGradleApp.java
-│ └── test/java/org/example/AppTest.java
-├── Dockerfile
-├── settings.gradle
-├── README.md
-
-
----
-
 ## 🚀 Features
 
 - Java 17 support
